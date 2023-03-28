@@ -1,0 +1,6 @@
+.navbar.navbar-expand-lg.bg-secondary{
+    background: rgba(29, 50, 235, 0.61) !important;
+}
+.list-group-item:hover{
+    background-color: rgb(95, 95, 95);
+}
